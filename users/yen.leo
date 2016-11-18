@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Created by Leo: http://leoeditor.com/leo_toc.html -->
-<?xml-stylesheet ekr_test ?>
 <leo_file xmlns:leo="http://leoeditor.com/namespaces/leo-python-editor/1.1" >
 <leo_header file_format="2" tnodes="0" max_tnode_index="0" clone_windows="0"/>
 <globals body_outline_ratio="0.5" body_secondary_ratio="0.5">
@@ -15,11 +14,11 @@
 <v t="leo.20151212173315.3"><vh>@string initial_split_orientation = horizontal</vh></v>
 </v>
 <v t="amd.20160921213353.1"><vh>2016fall 簡報與網誌樣板系統</vh></v>
-<v t="amd.20160106095324.1" a="E"><vh>@path ./../</vh>
+<v t="amd.20160106095324.1"><vh>@path ./../</vh>
 <v t="leo.20151213173830.1"><vh>假如要在近端檢視, 使用下列按鈕</vh>
 <v t="leo.20151213085727.1"><vh>@button pelican-blog</vh></v>
 </v>
-<v t="leo.20161115002405.1"><vh>設定與開發</vh>
+<v t="leo.20161115002405.1" a="E"><vh>設定與開發</vh>
 <v t="leo.20161115002405.2"><vh>@@edit index.html</vh></v>
 <v t="leo.20161115002405.3" a="E"><vh>@clean index.html</vh>
 <v t="leo.20161115002405.4" a="E"><vh>html</vh>
@@ -129,6 +128,17 @@
 <v t="leo.20161115002405.73"><vh>心得</vh></v>
 </v>
 </v>
+<v t="leo.20161118115623.1"><vh>20161118</vh>
+<v t="leo.20161118115623.2" a="E"><vh>上課日期</vh>
+<v t="leo.20161118115623.3"><vh>20161111</vh></v>
+</v>
+<v t="leo.20161118115623.4" a="E"><vh>上課內容</vh>
+<v t="leo.20161118115623.5"><vh>上課內容</vh></v>
+</v>
+<v t="leo.20161118115623.6" a="E"><vh>心得</vh>
+<v t="leo.20161118115623.7"><vh>心得</vh></v>
+</v>
+</v>
 </v>
 </v>
 </v>
@@ -158,6 +168,7 @@
 <v t="leo.20161115003507.11"><vh>@edit 20161028.md</vh></v>
 <v t="leo.20161115003507.12"><vh>@edit 20161104.md</vh></v>
 <v t="leo.20161115003507.13"><vh>@edit 20161111.md</vh></v>
+<v t="leo.20161118114206.1"><vh>@edit 20161118.md</vh></v>
 </v>
 </v>
 </v>
@@ -827,5 +838,50 @@ PLUGINS = ['liquid_tags.notebook', 'summary']
 <t tx="leo.20161115003507.1"></t>
 <t tx="leo.20161115003507.2"></t>
 <t tx="leo.20161115003507.3"></t>
+<t tx="leo.20161118115623.1">&lt;section&gt;
+@others
+&lt;/section&gt;</t>
+<t tx="leo.20161118115623.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20161118115623.3">## 2016/11/11 第九週
+
+</t>
+<t tx="leo.20161118115623.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20161118115623.5">##上課內容 
+
+期中考週
+
+
+
+</t>
+<t tx="leo.20161118115623.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20161118115623.7">##心得
+
+這禮拜是期中考週，我給自己評了一個良心分數，給了組員公平的分數。
+
+</t>
 </tnodes>
 </leo_file>
