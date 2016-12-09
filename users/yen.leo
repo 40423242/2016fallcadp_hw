@@ -14,7 +14,7 @@
 <v t="leo.20151212173315.3"><vh>@string initial_split_orientation = horizontal</vh></v>
 </v>
 <v t="amd.20160921213353.1"><vh>2016fall 簡報與網誌樣板系統</vh></v>
-<v t="amd.20160106095324.1"><vh>@path ./../</vh>
+<v t="amd.20160106095324.1" a="E"><vh>@path ./../</vh>
 <v t="leo.20151213173830.1"><vh>假如要在近端檢視, 使用下列按鈕</vh>
 <v t="leo.20151213085727.1"><vh>@button pelican-blog</vh></v>
 </v>
@@ -130,13 +130,46 @@
 </v>
 <v t="leo.20161118115623.1"><vh>20161118</vh>
 <v t="leo.20161118115623.2" a="E"><vh>上課日期</vh>
-<v t="leo.20161118115623.3"><vh>20161111</vh></v>
+<v t="leo.20161118115623.3"><vh>20161118</vh></v>
 </v>
 <v t="leo.20161118115623.4" a="E"><vh>上課內容</vh>
 <v t="leo.20161118115623.5"><vh>上課內容</vh></v>
 </v>
 <v t="leo.20161118115623.6" a="E"><vh>心得</vh>
 <v t="leo.20161118115623.7"><vh>心得</vh></v>
+</v>
+</v>
+<v t="leo.20161209115342.1" a="E"><vh>20161125</vh>
+<v t="leo.20161209115342.2" a="E"><vh>上課日期</vh>
+<v t="leo.20161209115342.3"><vh>20161125</vh></v>
+</v>
+<v t="leo.20161209115342.4" a="E"><vh>上課內容</vh>
+<v t="leo.20161209115342.5"><vh>上課內容</vh></v>
+</v>
+<v t="leo.20161209115342.6" a="E"><vh>心得</vh>
+<v t="leo.20161209115342.7"><vh>心得</vh></v>
+</v>
+</v>
+<v t="leo.20161209115346.1" a="E"><vh>20161202</vh>
+<v t="leo.20161209115346.2" a="E"><vh>上課日期</vh>
+<v t="leo.20161209115346.3"><vh>20161202</vh></v>
+</v>
+<v t="leo.20161209115346.4" a="E"><vh>上課內容</vh>
+<v t="leo.20161209115346.5"><vh>上課內容</vh></v>
+</v>
+<v t="leo.20161209115346.6" a="E"><vh>心得</vh>
+<v t="leo.20161209115346.7"><vh>心得</vh></v>
+</v>
+</v>
+<v t="leo.20161209115348.1" a="E"><vh>20161209</vh>
+<v t="leo.20161209115348.2" a="E"><vh>上課日期</vh>
+<v t="leo.20161209115348.3"><vh>20161209</vh></v>
+</v>
+<v t="leo.20161209115348.4" a="E"><vh>上課內容</vh>
+<v t="leo.20161209115348.5"><vh>上課內容</vh></v>
+</v>
+<v t="leo.20161209115348.6" a="E"><vh>心得</vh>
+<v t="leo.20161209115348.7"><vh>心得</vh></v>
 </v>
 </v>
 </v>
@@ -169,6 +202,9 @@
 <v t="leo.20161115003507.12"><vh>@edit 20161104.md</vh></v>
 <v t="leo.20161115003507.13"><vh>@edit 20161111.md</vh></v>
 <v t="leo.20161118114206.1"><vh>@edit 20161118.md</vh></v>
+<v t="leo.20161209115705.1"><vh>@edit 20161125.md</vh></v>
+<v t="leo.20161209115703.1"><vh>@edit 20161202.md</vh></v>
+<v t="leo.20161209115707.1"><vh>@edit 20161209.md</vh></v>
 </v>
 </v>
 </v>
@@ -850,7 +886,7 @@ PLUGINS = ['liquid_tags.notebook', 'summary']
 
 						
 </t>
-<t tx="leo.20161118115623.3">## 2016/11/11 第九週
+<t tx="leo.20161118115623.3">## 2016/11/18 第十週
 
 </t>
 <t tx="leo.20161118115623.4">&lt;section data-markdown&gt;
@@ -879,6 +915,141 @@ PLUGINS = ['liquid_tags.notebook', 'summary']
 						
 </t>
 <t tx="leo.20161118115623.7">##心得
+
+這禮拜是期中考週，我給自己評了一個良心分數，給了組員公平的分數。
+
+</t>
+<t tx="leo.20161209115342.1">&lt;section&gt;
+@others
+&lt;/section&gt;</t>
+<t tx="leo.20161209115342.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20161209115342.3">## 2016/11/25 第十一週
+
+</t>
+<t tx="leo.20161209115342.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20161209115342.5">##上課內容 
+
+運動會
+
+
+
+</t>
+<t tx="leo.20161209115342.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20161209115342.7">##心得
+
+這禮拜是期中考週，我給自己評了一個良心分數，給了組員公平的分數。
+
+</t>
+<t tx="leo.20161209115346.1">&lt;section&gt;
+@others
+&lt;/section&gt;</t>
+<t tx="leo.20161209115346.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20161209115346.3">## 2016/12/02 第十二週
+
+</t>
+<t tx="leo.20161209115346.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20161209115346.5">##上課內容 
+
+畫一個正方體和圓棒
+
+
+
+</t>
+<t tx="leo.20161209115346.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20161209115346.7">##心得
+
+還可以
+
+</t>
+<t tx="leo.20161209115348.1">&lt;section&gt;
+@others
+&lt;/section&gt;</t>
+<t tx="leo.20161209115348.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20161209115348.3">## 2016/12/09 第十三週
+
+</t>
+<t tx="leo.20161209115348.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20161209115348.5">##上課內容 
+
+把圓棒和正方體組合成
+
+
+
+</t>
+<t tx="leo.20161209115348.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20161209115348.7">##心得
 
 這禮拜是期中考週，我給自己評了一個良心分數，給了組員公平的分數。
 
