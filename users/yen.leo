@@ -139,7 +139,7 @@
 <v t="leo.20161118115623.7"><vh>心得</vh></v>
 </v>
 </v>
-<v t="leo.20161216102241.1" a="E"><vh>20161125</vh>
+<v t="leo.20161216102241.1"><vh>20161125</vh>
 <v t="leo.20161216102241.2" a="E"><vh>上課日期</vh>
 <v t="leo.20161216102241.3"><vh>20161125</vh></v>
 </v>
@@ -150,26 +150,26 @@
 <v t="leo.20161216102241.7"><vh>心得</vh></v>
 </v>
 </v>
-<v t="leo.20161216102243.1" a="E"><vh>20161202</vh>
-<v t="leo.20161216102243.2" a="E"><vh>上課日期</vh>
-<v t="leo.20161216102243.3"><vh>20161202</vh></v>
+<v t="leo.20161216120434.1"><vh>20161202</vh>
+<v t="leo.20161216120434.2" a="E"><vh>上課日期</vh>
+<v t="leo.20161216120434.3"><vh>20161202</vh></v>
 </v>
-<v t="leo.20161216102243.4" a="E"><vh>上課內容</vh>
-<v t="leo.20161216102243.5"><vh>上課內容</vh></v>
+<v t="leo.20161216120434.4" a="E"><vh>上課內容</vh>
+<v t="leo.20161216120434.5"><vh>上課內容</vh></v>
 </v>
-<v t="leo.20161216102243.6" a="E"><vh>心得</vh>
-<v t="leo.20161216102243.7"><vh>心得</vh></v>
+<v t="leo.20161216120434.6" a="E"><vh>心得</vh>
+<v t="leo.20161216120434.7"><vh>心得</vh></v>
 </v>
 </v>
-<v t="leo.20161216102245.1" a="E"><vh>20161209</vh>
-<v t="leo.20161216102245.2" a="E"><vh>上課日期</vh>
-<v t="leo.20161216102245.3"><vh>20161209</vh></v>
+<v t="leo.20161216115320.1"><vh>20161209</vh>
+<v t="leo.20161216115320.2" a="E"><vh>上課日期</vh>
+<v t="leo.20161216115320.3"><vh>20161209</vh></v>
 </v>
-<v t="leo.20161216102245.4" a="E"><vh>上課內容</vh>
-<v t="leo.20161216102245.5"><vh>上課內容</vh></v>
+<v t="leo.20161216115320.4" a="E"><vh>上課內容</vh>
+<v t="leo.20161216115320.5"><vh>上課內容</vh></v>
 </v>
-<v t="leo.20161216102245.6" a="E"><vh>心得</vh>
-<v t="leo.20161216102245.7"><vh>心得</vh></v>
+<v t="leo.20161216115320.6" a="E"><vh>心得</vh>
+<v t="leo.20161216115320.7"><vh>心得</vh></v>
 </v>
 </v>
 </v>
@@ -211,6 +211,44 @@
 <v t="amd.20160106094754.1"><vh>@path ./../content/pages</vh>
 <v t="amd.20160106094829.1" a="E"><vh>yen 所寫的 pages 文章</vh>
 <v t="amd.20160106094844.1"><vh>@edit pages_1.md</vh></v>
+</v>
+</v>
+<v t="leo.20161216114430.2"><vh>Recovered Nodes</vh>
+<v t="leo.20161216114430.3"><vh>Recovered node "心得" from @clean index.html</vh>
+<v t="leo.20161216114430.4"><vh>old:心得</vh></v>
+<v t="leo.20161216114430.5"><vh>new:心得</vh></v>
+</v>
+<v t="leo.20161216114430.6"><vh>Recovered node "上課內容" from @clean index.html</vh>
+<v t="leo.20161216114430.7"><vh>old:上課內容</vh></v>
+<v t="leo.20161216114430.8"><vh>new:上課內容</vh></v>
+</v>
+<v t="leo.20161216114430.9"><vh>Recovered node "上課內容" from @clean index.html</vh>
+<v t="leo.20161216114430.10"><vh>old:上課內容</vh></v>
+<v t="leo.20161216114430.11"><vh>new:上課內容</vh></v>
+</v>
+<v t="leo.20161216114430.12"><vh>Recovered node "心得" from @clean index.html</vh>
+<v t="leo.20161216114430.13"><vh>old:心得</vh></v>
+<v t="leo.20161216114430.14"><vh>new:心得</vh></v>
+</v>
+<v t="leo.20161216114430.15"><vh>Recovered node "心得" from @clean index.html</vh>
+<v t="leo.20161216114430.16"><vh>old:心得</vh></v>
+<v t="leo.20161216114430.17"><vh>new:心得</vh></v>
+</v>
+<v t="leo.20161216114430.18"><vh>Recovered node "上課內容" from @clean index.html</vh>
+<v t="leo.20161216114430.19"><vh>old:上課內容</vh></v>
+<v t="leo.20161216114430.20"><vh>new:上課內容</vh></v>
+</v>
+<v t="leo.20161216114430.21"><vh>Recovered node "上課內容" from @clean index.html</vh>
+<v t="leo.20161216114430.22"><vh>old:上課內容</vh></v>
+<v t="leo.20161216114430.23"><vh>new:上課內容</vh></v>
+</v>
+<v t="leo.20161216114430.24"><vh>Recovered node "心得" from @clean index.html</vh>
+<v t="leo.20161216114430.25"><vh>old:心得</vh></v>
+<v t="leo.20161216114430.26"><vh>new:心得</vh></v>
+</v>
+<v t="leo.20161216114430.27"><vh>Recovered node "心得" from @clean index.html</vh>
+<v t="leo.20161216114430.28"><vh>old:心得</vh></v>
+<v t="leo.20161216114430.29"><vh>new:心得</vh></v>
 </v>
 </v>
 </vnodes>
@@ -443,7 +481,8 @@ redirecting ....
 </t>
 <t tx="leo.20161115002405.25">&lt;section&gt;
 @others
-&lt;/section&gt;</t>
+&lt;/section&gt;
+</t>
 <t tx="leo.20161115002405.26">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -494,7 +533,8 @@ redirecting ....
 </t>
 <t tx="leo.20161115002405.32">&lt;section&gt;
 @others
-&lt;/section&gt;</t>
+&lt;/section&gt;
+</t>
 <t tx="leo.20161115002405.33">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -539,7 +579,8 @@ redirecting ....
 </t>
 <t tx="leo.20161115002405.39">&lt;section&gt;
 @others
-&lt;/section&gt;</t>
+&lt;/section&gt;
+</t>
 <t tx="leo.20161115002405.4">&lt;!doctype html&gt;
 &lt;html lang="en"&gt;
 @others
@@ -590,7 +631,8 @@ redirecting ....
 </t>
 <t tx="leo.20161115002405.46">&lt;section&gt;
 @others
-&lt;/section&gt;</t>
+&lt;/section&gt;
+</t>
 <t tx="leo.20161115002405.47">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -668,7 +710,8 @@ redirecting ....
 </t>
 <t tx="leo.20161115002405.53">&lt;section&gt;
 @others
-&lt;/section&gt;</t>
+&lt;/section&gt;
+</t>
 <t tx="leo.20161115002405.54">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -678,7 +721,8 @@ redirecting ....
 
 						
 </t>
-<t tx="leo.20161115002405.55">## 2016/10/28 第七週</t>
+<t tx="leo.20161115002405.55">## 2016/10/28 第七週
+</t>
 <t tx="leo.20161115002405.56">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -740,7 +784,8 @@ redirecting ....
 </t>
 <t tx="leo.20161115002405.60">&lt;section&gt;
 @others
-&lt;/section&gt;</t>
+&lt;/section&gt;
+</t>
 <t tx="leo.20161115002405.61">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -785,7 +830,8 @@ redirecting ....
 </t>
 <t tx="leo.20161115002405.67">&lt;section&gt;
 @others
-&lt;/section&gt;</t>
+&lt;/section&gt;
+</t>
 <t tx="leo.20161115002405.68">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -876,7 +922,8 @@ PLUGINS = ['liquid_tags.notebook', 'summary']
 <t tx="leo.20161115003507.3"></t>
 <t tx="leo.20161118115623.1">&lt;section&gt;
 @others
-&lt;/section&gt;</t>
+&lt;/section&gt;
+</t>
 <t tx="leo.20161118115623.2">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -921,7 +968,8 @@ PLUGINS = ['liquid_tags.notebook', 'summary']
 </t>
 <t tx="leo.20161216102241.1">&lt;section&gt;
 @others
-&lt;/section&gt;</t>
+&lt;/section&gt;
+</t>
 <t tx="leo.20161216102241.2">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -961,41 +1009,40 @@ PLUGINS = ['liquid_tags.notebook', 'summary']
 </t>
 <t tx="leo.20161216102241.7">##心得
 
+
 早上起床集合 很舒服
 
-</t>
-<t tx="leo.20161216102243.1">&lt;section&gt;
-@others
-&lt;/section&gt;</t>
-<t tx="leo.20161216102243.2">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20161216102243.3">## 2016/12/02 第十二週
 
 </t>
-<t tx="leo.20161216102243.4">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20161216102243.5">##上課內容 
+<t tx="leo.20161216114430.10">##上課內容 
 
 畫圓棒和方形
 
 
 
 </t>
-<t tx="leo.20161216102243.6">&lt;section data-markdown&gt;
+<t tx="leo.20161216114430.11">##上課內容 
+
+&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD
+畫圓棒和方形
+=======
+畫一個正方體和圓棒
+&gt;&gt;&gt;&gt;&gt;&gt;&gt; 37cd3b49d193aa6fa5d9e1dc6cda8e8b8611901b
+</t>
+<t tx="leo.20161216114430.12">(uncached) leo.20161216102243.6
+Diff...
+- 
+- 
++ &lt;section data-markdown&gt;
++     &lt;script type="text/template"&gt;
+  @others
+      &lt;/script&gt;
+  &lt;/section&gt;
+  
+  
+  						
+</t>
+<t tx="leo.20161216114430.13">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
@@ -1004,15 +1051,61 @@ PLUGINS = ['liquid_tags.notebook', 'summary']
 
 						
 </t>
-<t tx="leo.20161216102243.7">##心得
+<t tx="leo.20161216114430.14">
+
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20161216114430.15">(uncached) leo.20161216102243.7
+Diff...
+- 						
+- &lt;section data-markdown&gt;
+-     &lt;script type="text/template"&gt;
+  ##心得
+  
+- &lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD
+  回家弄完不能轉檔
+- =======
+- 還可以
+- &gt;&gt;&gt;&gt;&gt;&gt;&gt; 37cd3b49d193aa6fa5d9e1dc6cda8e8b8611901b
+  
+</t>
+<t tx="leo.20161216114430.16">##心得
 
 回家弄完不能轉檔
 
 </t>
-<t tx="leo.20161216102245.1">&lt;section&gt;
-@others
-&lt;/section&gt;</t>
-<t tx="leo.20161216102245.2">&lt;section data-markdown&gt;
+<t tx="leo.20161216114430.17">						
+&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+##心得
+
+&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD
+回家弄完不能轉檔
+=======
+還可以
+&gt;&gt;&gt;&gt;&gt;&gt;&gt; 37cd3b49d193aa6fa5d9e1dc6cda8e8b8611901b
+
+</t>
+<t tx="leo.20161216114430.18">(uncached) leo.20161216102245.4
+Diff...
+  &lt;section data-markdown&gt;
+      &lt;script type="text/template"&gt;
+  @others
++     &lt;/script&gt;
++ &lt;/section&gt;
+  
+  
++ 						
+- 
+-     &lt;/script&gt;
+- &lt;/section&gt;
+</t>
+<t tx="leo.20161216114430.19">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
@@ -1021,26 +1114,58 @@ PLUGINS = ['liquid_tags.notebook', 'summary']
 
 						
 </t>
-<t tx="leo.20161216102245.3">## 2016/12/09 第十三週
-
-</t>
-<t tx="leo.20161216102245.4">&lt;section data-markdown&gt;
+<t tx="leo.20161216114430.2"></t>
+<t tx="leo.20161216114430.20">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
+
+
+
     &lt;/script&gt;
 &lt;/section&gt;
-
-
-						
 </t>
-<t tx="leo.20161216102245.5">##上課內容 
+<t tx="leo.20161216114430.21">(uncached) leo.20161216102245.5
+Diff...
+  ##上課內容 
+  
+- &lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD
+  組合圓棒和方形
+- =======
+- 把圓棒和正方體組合成
+- &gt;&gt;&gt;&gt;&gt;&gt;&gt; 37cd3b49d193aa6fa5d9e1dc6cda8e8b8611901b
++ 
++ 
++ 
+</t>
+<t tx="leo.20161216114430.22">##上課內容 
 
 組合圓棒和方形
 
 
 
 </t>
-<t tx="leo.20161216102245.6">&lt;section data-markdown&gt;
+<t tx="leo.20161216114430.23">##上課內容 
+
+&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD
+組合圓棒和方形
+=======
+把圓棒和正方體組合成
+&gt;&gt;&gt;&gt;&gt;&gt;&gt; 37cd3b49d193aa6fa5d9e1dc6cda8e8b8611901b
+</t>
+<t tx="leo.20161216114430.24">(uncached) leo.20161216102245.6
+Diff...
+- 
+- 
++ &lt;section data-markdown&gt;
++     &lt;script type="text/template"&gt;
+  @others
+      &lt;/script&gt;
+  &lt;/section&gt;
+  
+  
+  						
+</t>
+<t tx="leo.20161216114430.25">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
@@ -1049,9 +1174,204 @@ PLUGINS = ['liquid_tags.notebook', 'summary']
 
 						
 </t>
-<t tx="leo.20161216102245.7">##心得
+<t tx="leo.20161216114430.26">
+
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20161216114430.27">(uncached) leo.20161216102245.7
+Diff...
+- 						
+- &lt;section data-markdown&gt;
+-     &lt;script type="text/template"&gt;
+  ##心得
+  
+- &lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD
+  終於組起來了
+- =======
+- 這禮拜是期中考週，我給自己評了一個良心分數，給了組員公平的分數。
+- &gt;&gt;&gt;&gt;&gt;&gt;&gt; 37cd3b49d193aa6fa5d9e1dc6cda8e8b8611901b
+  
+</t>
+<t tx="leo.20161216114430.28">##心得
 
 終於組起來了
+
+</t>
+<t tx="leo.20161216114430.29">						
+&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+##心得
+
+&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD
+終於組起來了
+=======
+這禮拜是期中考週，我給自己評了一個良心分數，給了組員公平的分數。
+&gt;&gt;&gt;&gt;&gt;&gt;&gt; 37cd3b49d193aa6fa5d9e1dc6cda8e8b8611901b
+
+</t>
+<t tx="leo.20161216114430.3">(uncached) leo.20161216102241.7
+Diff...
+  ##心得
+  
+- &lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD
+  早上起床集合 很舒服
+- =======
+- 這禮拜是期中考週，我給自己評了一個良心分數，給了組員公平的分數。
+- &gt;&gt;&gt;&gt;&gt;&gt;&gt; 37cd3b49d193aa6fa5d9e1dc6cda8e8b8611901b
+  
+</t>
+<t tx="leo.20161216114430.4">##心得
+
+早上起床集合 很舒服
+
+</t>
+<t tx="leo.20161216114430.5">##心得
+
+&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD
+早上起床集合 很舒服
+=======
+這禮拜是期中考週，我給自己評了一個良心分數，給了組員公平的分數。
+&gt;&gt;&gt;&gt;&gt;&gt;&gt; 37cd3b49d193aa6fa5d9e1dc6cda8e8b8611901b
+
+</t>
+<t tx="leo.20161216114430.6">(uncached) leo.20161216102243.4
+Diff...
+  &lt;section data-markdown&gt;
+      &lt;script type="text/template"&gt;
+  @others
++     &lt;/script&gt;
++ &lt;/section&gt;
+  
+  
++ 						
+- 
+-     &lt;/script&gt;
+- &lt;/section&gt;
+</t>
+<t tx="leo.20161216114430.7">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20161216114430.8">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+
+
+
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20161216114430.9">(uncached) leo.20161216102243.5
+Diff...
+  ##上課內容 
+  
+- &lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD
+  畫圓棒和方形
+- =======
+- 畫一個正方體和圓棒
+- &gt;&gt;&gt;&gt;&gt;&gt;&gt; 37cd3b49d193aa6fa5d9e1dc6cda8e8b8611901b
++ 
++ 
++ 
+</t>
+<t tx="leo.20161216115320.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+</t>
+<t tx="leo.20161216115320.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20161216115320.3">## 2016/12/09 第十三週
+
+</t>
+<t tx="leo.20161216115320.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20161216115320.5">##上課內容 
+
+
+組合圓棒和方形
+</t>
+<t tx="leo.20161216115320.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20161216115320.7">##心得
+
+終於組起來了
+
+</t>
+<t tx="leo.20161216120434.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+</t>
+<t tx="leo.20161216120434.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20161216120434.3">## 2016/12/02 第十二週
+
+</t>
+<t tx="leo.20161216120434.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20161216120434.5">##上課內容 
+
+
+畫圓棒和方形
+
+
+</t>
+<t tx="leo.20161216120434.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20161216120434.7">##心得
+
+回家弄完不能轉檔
 
 </t>
 </tnodes>
