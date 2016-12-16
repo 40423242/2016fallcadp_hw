@@ -14,7 +14,7 @@
 <v t="leo.20151212173315.3"><vh>@string initial_split_orientation = horizontal</vh></v>
 </v>
 <v t="amd.20160921213353.1"><vh>2016fall 簡報與網誌樣板系統</vh></v>
-<v t="amd.20160106095324.1"><vh>@path ./../</vh>
+<v t="amd.20160106095324.1" a="E"><vh>@path ./../</vh>
 <v t="leo.20151213173830.1"><vh>假如要在近端檢視, 使用下列按鈕</vh>
 <v t="leo.20151213085727.1"><vh>@button pelican-blog</vh></v>
 </v>
@@ -139,6 +139,39 @@
 <v t="leo.20161118115623.7"><vh>心得</vh></v>
 </v>
 </v>
+<v t="leo.20161216102241.1" a="E"><vh>20161125</vh>
+<v t="leo.20161216102241.2" a="E"><vh>上課日期</vh>
+<v t="leo.20161216102241.3"><vh>20161125</vh></v>
+</v>
+<v t="leo.20161216102241.4" a="E"><vh>上課內容</vh>
+<v t="leo.20161216102241.5"><vh>上課內容</vh></v>
+</v>
+<v t="leo.20161216102241.6" a="E"><vh>心得</vh>
+<v t="leo.20161216102241.7"><vh>心得</vh></v>
+</v>
+</v>
+<v t="leo.20161216102243.1" a="E"><vh>20161202</vh>
+<v t="leo.20161216102243.2" a="E"><vh>上課日期</vh>
+<v t="leo.20161216102243.3"><vh>20161202</vh></v>
+</v>
+<v t="leo.20161216102243.4" a="E"><vh>上課內容</vh>
+<v t="leo.20161216102243.5"><vh>上課內容</vh></v>
+</v>
+<v t="leo.20161216102243.6" a="E"><vh>心得</vh>
+<v t="leo.20161216102243.7"><vh>心得</vh></v>
+</v>
+</v>
+<v t="leo.20161216102245.1" a="E"><vh>20161209</vh>
+<v t="leo.20161216102245.2" a="E"><vh>上課日期</vh>
+<v t="leo.20161216102245.3"><vh>20161209</vh></v>
+</v>
+<v t="leo.20161216102245.4" a="E"><vh>上課內容</vh>
+<v t="leo.20161216102245.5"><vh>上課內容</vh></v>
+</v>
+<v t="leo.20161216102245.6" a="E"><vh>心得</vh>
+<v t="leo.20161216102245.7"><vh>心得</vh></v>
+</v>
+</v>
 </v>
 </v>
 </v>
@@ -169,6 +202,9 @@
 <v t="leo.20161115003507.12"><vh>@edit 20161104.md</vh></v>
 <v t="leo.20161115003507.13"><vh>@edit 20161111.md</vh></v>
 <v t="leo.20161118114206.1"><vh>@edit 20161118.md</vh></v>
+<v t="leo.20161216102650.1"><vh>@edit 20161125.md</vh></v>
+<v t="leo.20161216102651.1"><vh>@edit 20161202.md</vh></v>
+<v t="leo.20161216102653.1"><vh>@edit 20161209.md</vh></v>
 </v>
 </v>
 </v>
@@ -850,7 +886,7 @@ PLUGINS = ['liquid_tags.notebook', 'summary']
 
 						
 </t>
-<t tx="leo.20161118115623.3">## 2016/11/11 第九週
+<t tx="leo.20161118115623.3">## 2016/11/18 第十週
 
 </t>
 <t tx="leo.20161118115623.4">&lt;section data-markdown&gt;
@@ -881,6 +917,141 @@ PLUGINS = ['liquid_tags.notebook', 'summary']
 <t tx="leo.20161118115623.7">##心得
 
 這禮拜是期中考週，我給自己評了一個良心分數，給了組員公平的分數。
+
+</t>
+<t tx="leo.20161216102241.1">&lt;section&gt;
+@others
+&lt;/section&gt;</t>
+<t tx="leo.20161216102241.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20161216102241.3">## 2016/11/25 第十一週
+
+</t>
+<t tx="leo.20161216102241.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20161216102241.5">##上課內容 
+
+運動會
+
+
+
+</t>
+<t tx="leo.20161216102241.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20161216102241.7">##心得
+
+早上起床集合 很舒服
+
+</t>
+<t tx="leo.20161216102243.1">&lt;section&gt;
+@others
+&lt;/section&gt;</t>
+<t tx="leo.20161216102243.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20161216102243.3">## 2016/12/02 第十二週
+
+</t>
+<t tx="leo.20161216102243.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20161216102243.5">##上課內容 
+
+畫圓棒和方形
+
+
+
+</t>
+<t tx="leo.20161216102243.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20161216102243.7">##心得
+
+回家弄完不能轉檔
+
+</t>
+<t tx="leo.20161216102245.1">&lt;section&gt;
+@others
+&lt;/section&gt;</t>
+<t tx="leo.20161216102245.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20161216102245.3">## 2016/12/09 第十三週
+
+</t>
+<t tx="leo.20161216102245.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20161216102245.5">##上課內容 
+
+組合圓棒和方形
+
+
+
+</t>
+<t tx="leo.20161216102245.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20161216102245.7">##心得
+
+終於組起來了
 
 </t>
 </tnodes>
