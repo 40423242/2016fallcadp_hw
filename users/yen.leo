@@ -172,6 +172,39 @@
 <v t="leo.20161216115320.7"><vh>心得</vh></v>
 </v>
 </v>
+<v t="leo.20170107193405.1"><vh>20161216</vh>
+<v t="leo.20170107193405.2" a="E"><vh>上課日期</vh>
+<v t="leo.20170107193405.3"><vh>20161216</vh></v>
+</v>
+<v t="leo.20170107193405.4" a="E"><vh>上課內容</vh>
+<v t="leo.20170107193405.5"><vh>上課內容</vh></v>
+</v>
+<v t="leo.20170107193405.6" a="E"><vh>心得</vh>
+<v t="leo.20170107193405.7"><vh>心得</vh></v>
+</v>
+</v>
+<v t="leo.20170107193407.1"><vh>20161223</vh>
+<v t="leo.20170107193407.2" a="E"><vh>上課日期</vh>
+<v t="leo.20170107193407.3"><vh>20161223</vh></v>
+</v>
+<v t="leo.20170107193407.4" a="E"><vh>上課內容</vh>
+<v t="leo.20170107193407.5"><vh>上課內容</vh></v>
+</v>
+<v t="leo.20170107193407.6" a="E"><vh>心得</vh>
+<v t="leo.20170107193407.7"><vh>心得</vh></v>
+</v>
+</v>
+<v t="leo.20170107193408.1"><vh>20161230</vh>
+<v t="leo.20170107193408.2" a="E"><vh>上課日期</vh>
+<v t="leo.20170107193408.3"><vh>20161230</vh></v>
+</v>
+<v t="leo.20170107193408.4" a="E"><vh>上課內容</vh>
+<v t="leo.20170107193408.5"><vh>上課內容</vh></v>
+</v>
+<v t="leo.20170107193408.6" a="E"><vh>心得</vh>
+<v t="leo.20170107193408.7"><vh>心得</vh></v>
+</v>
+</v>
 </v>
 </v>
 </v>
@@ -189,7 +222,7 @@
 </v>
 <v t="amd.20151215170350.1"><vh>以下為 content 目錄中的 md 檔案</vh></v>
 <v t="amd.20151216001126.1"><vh>md 檔案範例</vh></v>
-<v t="leo.20161115003507.1"><vh>@path ./../content</vh>
+<v t="leo.20161115003507.1" a="E"><vh>@path ./../content</vh>
 <v t="leo.20161115003507.2" a="E"><vh>yen 所寫的網誌文章</vh>
 <v t="leo.20161115003507.3" a="E"><vh>201609</vh>
 <v t="leo.20161115003507.4"><vh>@edit 20160916.md</vh></v>
@@ -1325,7 +1358,7 @@ Diff...
 </t>
 <t tx="leo.20161216115320.7">##心得
 
-終於組起來了
+終於組起來了，但是Github有問題PUSH不上去
 
 </t>
 <t tx="leo.20161216120434.1">&lt;section&gt;
@@ -1372,6 +1405,138 @@ Diff...
 <t tx="leo.20161216120434.7">##心得
 
 回家弄完不能轉檔
+
+</t>
+<t tx="leo.20170107193405.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+</t>
+<t tx="leo.20170107193405.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170107193405.3">## 2016/12/16 第十四週
+
+</t>
+<t tx="leo.20170107193405.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170107193405.5">##上課內容 
+
+
+用SolveSpace把檔案存成html檔,並且更改成http設定,利用嵌入網頁的指令,把html檔案放進網誌裡面
+</t>
+<t tx="leo.20170107193405.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170107193405.7">##心得
+
+
+
+</t>
+<t tx="leo.20170107193407.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+</t>
+<t tx="leo.20170107193407.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170107193407.3">## 2016/12/23 第十五週
+
+</t>
+<t tx="leo.20170107193407.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170107193407.5">##上課內容 
+
+
+3D印表機，並模擬它的運動軌跡。
+</t>
+<t tx="leo.20170107193407.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170107193407.7">##心得
+
+
+
+</t>
+<t tx="leo.20170107193408.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+</t>
+<t tx="leo.20170107193408.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170107193408.3">## 2016/12/30 第十六週
+
+</t>
+<t tx="leo.20170107193408.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170107193408.5">##上課內容 
+
+
+繪製Mechanism Tutorial
+</t>
+<t tx="leo.20170107193408.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170107193408.7">##心得
+
+
 
 </t>
 </tnodes>
