@@ -154,13 +154,13 @@
 <v t="leo.20161216120434.2"><vh>上課日期</vh>
 <v t="leo.20161216120434.3"><vh>20161202</vh></v>
 </v>
-<v t="leo.20161216120434.4"><vh>上課內容</vh>
+<v t="leo.20161216120434.4" a="E"><vh>上課內容</vh>
 <v t="leo.20161216120434.5"><vh>上課內容</vh></v>
 </v>
-<v t="leo.20170108023642.1"><vh>上課內容</vh>
+<v t="leo.20170108023642.1" a="E"><vh>上課內容</vh>
 <v t="leo.20170108023642.2"><vh>上課內容</vh></v>
 </v>
-<v t="leo.20170108025002.1"><vh>上課內容</vh>
+<v t="leo.20170108025002.1" a="E"><vh>上課內容</vh>
 <v t="leo.20170108025002.2"><vh>上課內容</vh></v>
 </v>
 <v t="leo.20161216120434.6"><vh>心得</vh>
@@ -179,24 +179,27 @@
 </v>
 </v>
 <v t="leo.20170107193405.1"><vh>20161216</vh>
-<v t="leo.20170107193405.2" a="E"><vh>上課日期</vh>
+<v t="leo.20170107193405.2"><vh>上課日期</vh>
 <v t="leo.20170107193405.3"><vh>20161216</vh></v>
 </v>
 <v t="leo.20170107193405.4" a="E"><vh>上課內容</vh>
 <v t="leo.20170107193405.5"><vh>上課內容</vh></v>
 </v>
-<v t="leo.20170107193405.6" a="E"><vh>心得</vh>
+<v t="leo.20170107193405.6"><vh>心得</vh>
 <v t="leo.20170107193405.7"><vh>心得</vh></v>
 </v>
 </v>
-<v t="leo.20170107193407.1" a="E"><vh>20161223</vh>
-<v t="leo.20170107193407.2" a="E"><vh>上課日期</vh>
+<v t="leo.20170107193407.1"><vh>20161223</vh>
+<v t="leo.20170107193407.2"><vh>上課日期</vh>
 <v t="leo.20170107193407.3"><vh>20161223</vh></v>
 </v>
-<v t="leo.20170107193407.4" a="E"><vh>上課內容</vh>
+<v t="leo.20170107193407.4"><vh>上課內容</vh>
 <v t="leo.20170107193407.5"><vh>上課內容</vh></v>
 </v>
-<v t="leo.20170107193407.6" a="E"><vh>心得</vh>
+<v t="leo.20170108050356.1"><vh>上課內容</vh>
+<v t="leo.20170108050356.2"><vh>上課內容</vh></v>
+</v>
+<v t="leo.20170107193407.6"><vh>心得</vh>
 <v t="leo.20170107193407.7"><vh>心得</vh></v>
 </v>
 </v>
@@ -1449,8 +1452,9 @@ Diff...
 </t>
 <t tx="leo.20170107193405.5">##上課內容 
 
+連桿機構
 
-
+&lt;iframe src="https://player.vimeo.com/video/198501834" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 </t>
 <t tx="leo.20170107193405.6">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -1512,7 +1516,7 @@ Diff...
 
 
 
-用這個軟體就可以模擬使用情況了 (ಥ_ʖಥ)</t>
+用這個軟體就可以模擬使用情況了</t>
 <t tx="leo.20170107193408.1">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -1563,7 +1567,7 @@ Diff...
   ##上課內容 
   
   
-- 3D印表機，並模擬它的運動軌跡。
+- 3D印表機 ，並模擬它的運動軌跡。
 ?      ^
 + 3D印表機 ，並模擬它的運動軌跡。
 ?      ^
@@ -1576,7 +1580,7 @@ Diff...
 <t tx="leo.20170108014947.5">##上課內容 
 
 
-3D印表機，並模擬它的運動軌跡。
+3D印表機 ，並模擬它的運動軌跡。
 </t>
 <t tx="leo.20170108023642.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -1678,5 +1682,21 @@ Diff...
 看來大家的進度都還蠻少的
 要趕進度囉
 ┗(｀・ω・´)┛</t>
+<t tx="leo.20170108050356.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170108050356.2">##試玩
+
+
+
+
+
+&lt;iframe src="https://player.vimeo.com/video/198501827" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</t>
 </tnodes>
 </leo_file>
