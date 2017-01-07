@@ -189,7 +189,7 @@
 <v t="leo.20170107193405.7"><vh>心得</vh></v>
 </v>
 </v>
-<v t="leo.20170107193407.1"><vh>20161223</vh>
+<v t="leo.20170107193407.1" a="E"><vh>20161223</vh>
 <v t="leo.20170107193407.2" a="E"><vh>上課日期</vh>
 <v t="leo.20170107193407.3"><vh>20161223</vh></v>
 </v>
@@ -1498,7 +1498,7 @@ Diff...
 3D Printer
 
 
-&lt;img src="./../data/HW6.png" width="800" /&gt;</t>
+&lt;img src="data/HW6.png" width="800" /&gt;</t>
 <t tx="leo.20170107193407.6">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
