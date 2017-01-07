@@ -150,12 +150,9 @@
 <v t="leo.20161216102241.7"><vh>心得</vh></v>
 </v>
 </v>
-<v t="leo.20161216120434.1" a="E"><vh>20161202</vh>
+<v t="leo.20161216120434.1"><vh>20161202</vh>
 <v t="leo.20161216120434.2"><vh>上課日期</vh>
 <v t="leo.20161216120434.3"><vh>20161202</vh></v>
-</v>
-<v t="leo.20170108024038.1" a="E"><vh>上課內容</vh>
-<v t="leo.20170108024038.2"><vh>上課內容</vh></v>
 </v>
 <v t="leo.20161216120434.4"><vh>上課內容</vh>
 <v t="leo.20161216120434.5"><vh>上課內容</vh></v>
@@ -163,18 +160,21 @@
 <v t="leo.20170108023642.1"><vh>上課內容</vh>
 <v t="leo.20170108023642.2"><vh>上課內容</vh></v>
 </v>
+<v t="leo.20170108025002.1"><vh>上課內容</vh>
+<v t="leo.20170108025002.2"><vh>上課內容</vh></v>
+</v>
 <v t="leo.20161216120434.6"><vh>心得</vh>
 <v t="leo.20161216120434.7"><vh>心得</vh></v>
 </v>
 </v>
 <v t="leo.20161216115320.1"><vh>20161209</vh>
-<v t="leo.20161216115320.2"><vh>上課日期</vh>
+<v t="leo.20161216115320.2" a="E"><vh>上課日期</vh>
 <v t="leo.20161216115320.3"><vh>20161209</vh></v>
 </v>
-<v t="leo.20170108023925.1"><vh>上課內容</vh>
-<v t="leo.20170108023925.2"><vh>上課內容</vh></v>
+<v t="leo.20170108024949.1" a="E"><vh>上課內容</vh>
+<v t="leo.20170108024949.2"><vh>上課內容</vh></v>
 </v>
-<v t="leo.20161216115320.6"><vh>心得</vh>
+<v t="leo.20161216115320.6" a="E"><vh>心得</vh>
 <v t="leo.20161216115320.7"><vh>心得</vh></v>
 </v>
 </v>
@@ -209,6 +209,17 @@
 </v>
 <v t="leo.20170107193408.6" a="E"><vh>心得</vh>
 <v t="leo.20170107193408.7"><vh>心得</vh></v>
+</v>
+</v>
+<v t="leo.20170108025538.1"><vh>20170106</vh>
+<v t="leo.20170108025538.2" a="E"><vh>上課日期</vh>
+<v t="leo.20170108025538.3"><vh>20170106</vh></v>
+</v>
+<v t="leo.20170108025538.4" a="E"><vh>上課內容</vh>
+<v t="leo.20170108025538.5"><vh>上課內容</vh></v>
+</v>
+<v t="leo.20170108025538.6" a="E"><vh>心得</vh>
+<v t="leo.20170108025538.7"><vh>心得</vh></v>
 </v>
 </v>
 </v>
@@ -1360,7 +1371,7 @@ Diff...
 </t>
 <t tx="leo.20161216115320.7">##心得
 
-好不容易組合起來，可是Github有問題傳不上去，還收到他寄給我的信 
+這禮拜Github有問題傳不上去，傳到我快崩潰了，回家才看到收到他寄給我的信 
 
 </t>
 <t tx="leo.20161216120434.1">&lt;section&gt;
@@ -1439,7 +1450,7 @@ Diff...
 <t tx="leo.20170107193405.5">##上課內容 
 
 
-用SolveSpace把檔案存成html檔,並且更改成http設定,利用嵌入網頁的指令,把html檔案放進網誌裡面
+
 </t>
 <t tx="leo.20170107193405.6">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -1454,7 +1465,7 @@ Diff...
 
 
 
-</t>
+ 困貴陶(ಥ_ʖಥ)</t>
 <t tx="leo.20170107193407.1">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -1483,8 +1494,11 @@ Diff...
 <t tx="leo.20170107193407.5">##上課內容 
 
 
-3D印表機，並模擬它的運動軌跡。
-</t>
+
+3D Printer
+
+
+&lt;img src="./../data/HW6.png" width="800" /&gt;</t>
 <t tx="leo.20170107193407.6">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -1498,7 +1512,7 @@ Diff...
 
 
 
-</t>
+用這個軟體就可以模擬使用情況了 (ಥ_ʖಥ)</t>
 <t tx="leo.20170107193408.1">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -1527,7 +1541,7 @@ Diff...
 <t tx="leo.20170107193408.5">##上課內容 
 
 
-繪製Mechanism Tutorial
+
 </t>
 <t tx="leo.20170107193408.6">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -1582,7 +1596,7 @@ Diff...
 
 
 &lt;iframe src="https://player.vimeo.com/video/198449761" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</t>
-<t tx="leo.20170108023925.1">&lt;section data-markdown&gt;
+<t tx="leo.20170108024949.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
@@ -1591,25 +1605,7 @@ Diff...
 
 						
 </t>
-<t tx="leo.20170108023925.2">##組合囉 
-
-
-
-
-
-
-
-&lt;iframe src="https://player.vimeo.com/video/198449745" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</t>
-<t tx="leo.20170108024038.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20170108024038.2">##教你轉HTML
+<t tx="leo.20170108024949.2">##教你轉HTML
 
 
 
@@ -1618,5 +1614,69 @@ Diff...
 &lt;iframe src="https://player.vimeo.com/video/198488048" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 
 </t>
+<t tx="leo.20170108025002.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170108025002.2">##組合囉 
+
+
+
+
+
+
+
+&lt;iframe src="https://player.vimeo.com/video/198449745" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20170108025538.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+</t>
+<t tx="leo.20170108025538.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170108025538.3">## 2017/01/06 第十七週
+
+</t>
+<t tx="leo.20170108025538.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170108025538.5">##上課內容 
+
+
+看看大家做的進度如何
+</t>
+<t tx="leo.20170108025538.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170108025538.7">##心得
+
+
+
+看來大家的進度都還蠻少的
+要趕進度囉
+┗(｀・ω・´)┛</t>
 </tnodes>
 </leo_file>
