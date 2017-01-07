@@ -150,25 +150,31 @@
 <v t="leo.20161216102241.7"><vh>心得</vh></v>
 </v>
 </v>
-<v t="leo.20161216120434.1"><vh>20161202</vh>
-<v t="leo.20161216120434.2" a="E"><vh>上課日期</vh>
+<v t="leo.20161216120434.1" a="E"><vh>20161202</vh>
+<v t="leo.20161216120434.2"><vh>上課日期</vh>
 <v t="leo.20161216120434.3"><vh>20161202</vh></v>
 </v>
-<v t="leo.20161216120434.4" a="E"><vh>上課內容</vh>
+<v t="leo.20170108024038.1" a="E"><vh>上課內容</vh>
+<v t="leo.20170108024038.2"><vh>上課內容</vh></v>
+</v>
+<v t="leo.20161216120434.4"><vh>上課內容</vh>
 <v t="leo.20161216120434.5"><vh>上課內容</vh></v>
 </v>
-<v t="leo.20161216120434.6" a="E"><vh>心得</vh>
+<v t="leo.20170108023642.1"><vh>上課內容</vh>
+<v t="leo.20170108023642.2"><vh>上課內容</vh></v>
+</v>
+<v t="leo.20161216120434.6"><vh>心得</vh>
 <v t="leo.20161216120434.7"><vh>心得</vh></v>
 </v>
 </v>
 <v t="leo.20161216115320.1"><vh>20161209</vh>
-<v t="leo.20161216115320.2" a="E"><vh>上課日期</vh>
+<v t="leo.20161216115320.2"><vh>上課日期</vh>
 <v t="leo.20161216115320.3"><vh>20161209</vh></v>
 </v>
-<v t="leo.20161216115320.4" a="E"><vh>上課內容</vh>
-<v t="leo.20161216115320.5"><vh>上課內容</vh></v>
+<v t="leo.20170108023925.1"><vh>上課內容</vh>
+<v t="leo.20170108023925.2"><vh>上課內容</vh></v>
 </v>
-<v t="leo.20161216115320.6" a="E"><vh>心得</vh>
+<v t="leo.20161216115320.6"><vh>心得</vh>
 <v t="leo.20161216115320.7"><vh>心得</vh></v>
 </v>
 </v>
@@ -1343,20 +1349,6 @@ Diff...
 <t tx="leo.20161216115320.3">## 2016/12/09 第十三週
 
 </t>
-<t tx="leo.20161216115320.4">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20161216115320.5">##上課內容 
-
-
-組合圓棒和方形
-</t>
 <t tx="leo.20161216115320.6">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -1368,7 +1360,7 @@ Diff...
 </t>
 <t tx="leo.20161216115320.7">##心得
 
-終於組起來了，但是Github有問題PUSH不上去
+好不容易組合起來，可是Github有問題傳不上去，還收到他寄給我的信 
 
 </t>
 <t tx="leo.20161216120434.1">&lt;section&gt;
@@ -1396,11 +1388,13 @@ Diff...
 
 						
 </t>
-<t tx="leo.20161216120434.5">##上課內容 
+<t tx="leo.20161216120434.5">##畫方形 
 
 
-畫圓棒和方形
 
+
+
+&lt;iframe src="https://player.vimeo.com/video/198449757" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 
 </t>
 <t tx="leo.20161216120434.6">&lt;section data-markdown&gt;
@@ -1414,7 +1408,7 @@ Diff...
 </t>
 <t tx="leo.20161216120434.7">##心得
 
-回家弄完不能轉檔
+畫這個讓我想起高中的時候QQ
 
 </t>
 <t tx="leo.20170107193405.1">&lt;section&gt;
@@ -1569,6 +1563,60 @@ Diff...
 
 
 3D印表機，並模擬它的運動軌跡。
+</t>
+<t tx="leo.20170108023642.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170108023642.2">##畫圓棒 
+
+
+
+
+
+
+
+&lt;iframe src="https://player.vimeo.com/video/198449761" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20170108023925.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170108023925.2">##組合囉 
+
+
+
+
+
+
+
+&lt;iframe src="https://player.vimeo.com/video/198449745" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20170108024038.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170108024038.2">##教你轉HTML
+
+
+
+
+
+&lt;iframe src="https://player.vimeo.com/video/198488048" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
 </t>
 </tnodes>
 </leo_file>
