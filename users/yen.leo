@@ -174,6 +174,9 @@
 <v t="leo.20170108024949.1" a="E"><vh>上課內容</vh>
 <v t="leo.20170108024949.2"><vh>上課內容</vh></v>
 </v>
+<v t="leo.20170108124905.1" a="E"><vh>上課內容</vh>
+<v t="leo.20170108124905.2"><vh>上課內容</vh></v>
+</v>
 <v t="leo.20161216115320.6" a="E"><vh>心得</vh>
 <v t="leo.20161216115320.7"><vh>心得</vh></v>
 </v>
@@ -1617,6 +1620,7 @@ Diff...
 
 &lt;iframe src="https://player.vimeo.com/video/198488048" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 
+
 </t>
 <t tx="leo.20170108025002.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -1698,5 +1702,23 @@ Diff...
 
 
 &lt;iframe src="https://player.vimeo.com/video/198501827" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20170108124905.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170108124905.2">##記得改http:
+
+
+
+
+
+&lt;iframe src="https://player.vimeo.com/video/198531288" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+</t>
 </tnodes>
 </leo_file>
