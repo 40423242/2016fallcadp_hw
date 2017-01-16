@@ -199,21 +199,45 @@
 <v t="leo.20170107193407.4"><vh>上課內容</vh>
 <v t="leo.20170107193407.5"><vh>上課內容</vh></v>
 </v>
-<v t="leo.20170108050356.1"><vh>上課內容</vh>
+<v t="leo.20170108050356.1" a="E"><vh>上課內容</vh>
 <v t="leo.20170108050356.2"><vh>上課內容</vh></v>
 </v>
 <v t="leo.20170107193407.6" a="E"><vh>心得</vh>
 <v t="leo.20170107193407.7"><vh>心得</vh></v>
 </v>
 </v>
-<v t="leo.20170107193408.1"><vh>20161230</vh>
-<v t="leo.20170107193408.2" a="E"><vh>上課日期</vh>
+<v t="leo.20170107193408.1" a="E"><vh>20161230</vh>
+<v t="leo.20170107193408.2"><vh>上課日期</vh>
 <v t="leo.20170107193408.3"><vh>20161230</vh></v>
 </v>
-<v t="leo.20170107193408.4" a="E"><vh>上課內容</vh>
+<v t="leo.20170107193408.4"><vh>上課內容</vh>
 <v t="leo.20170107193408.5"><vh>上課內容</vh></v>
 </v>
-<v t="leo.20170107193408.6" a="E"><vh>心得</vh>
+<v t="leo.20170116215626.1"><vh>上課內容</vh>
+<v t="leo.20170116215626.2"><vh>上課內容</vh></v>
+</v>
+<v t="leo.20170116215628.1"><vh>上課內容</vh>
+<v t="leo.20170116215628.2"><vh>上課內容</vh></v>
+</v>
+<v t="leo.20170116215629.1"><vh>上課內容</vh>
+<v t="leo.20170116215629.2"><vh>上課內容</vh></v>
+</v>
+<v t="leo.20170116215630.1"><vh>上課內容</vh>
+<v t="leo.20170116215630.2"><vh>上課內容</vh></v>
+</v>
+<v t="leo.20170116215632.1"><vh>上課內容</vh>
+<v t="leo.20170116215632.2"><vh>上課內容</vh></v>
+</v>
+<v t="leo.20170116215633.1"><vh>上課內容</vh>
+<v t="leo.20170116215633.2"><vh>上課內容</vh></v>
+</v>
+<v t="leo.20170116215635.1"><vh>上課內容</vh>
+<v t="leo.20170116215635.2"><vh>上課內容</vh></v>
+</v>
+<v t="leo.20170116215641.1" a="E"><vh>上課內容</vh>
+<v t="leo.20170116215641.2"><vh>上課內容</vh></v>
+</v>
+<v t="leo.20170107193408.6"><vh>心得</vh>
 <v t="leo.20170107193408.7"><vh>心得</vh></v>
 </v>
 </v>
@@ -1774,5 +1798,109 @@ Diff...
 
 
 終於到了自評的這一天了，看看這學期學的東西，雖然都是一些基礎，但是基礎打得好才能繼續做下去。</t>
+<t tx="leo.20170116215626.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170116215626.2">##Base
+
+
+&lt;iframe src="https://player.vimeo.com/video/199662849" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20170116215628.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170116215628.2">##Piston
+
+
+&lt;iframe src="https://player.vimeo.com/video/199663103" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20170116215629.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170116215629.2">##Hinge
+
+
+&lt;iframe src="https://player.vimeo.com/video/199663022" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20170116215630.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170116215630.2">##Cylinder
+
+
+&lt;iframe src="https://player.vimeo.com/video/199662925" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20170116215632.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170116215632.2">##Adjuster_Base
+
+
+&lt;iframe src="https://player.vimeo.com/video/199662792" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20170116215633.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170116215633.2">##Adjuster
+
+
+&lt;iframe src="https://player.vimeo.com/video/199662744" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20170116215635.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170116215635.2">##Connection
+
+
+&lt;iframe src="https://player.vimeo.com/video/199662901" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20170116215641.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170116215641.2">##Handle
+
+
+&lt;iframe src="https://player.vimeo.com/video/199666323" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</t>
 </tnodes>
 </leo_file>
