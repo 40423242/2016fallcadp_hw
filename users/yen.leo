@@ -163,7 +163,7 @@
 <v t="leo.20170108025002.1" a="E"><vh>上課內容</vh>
 <v t="leo.20170108025002.2"><vh>上課內容</vh></v>
 </v>
-<v t="leo.20161216120434.6"><vh>心得</vh>
+<v t="leo.20161216120434.6" a="E"><vh>心得</vh>
 <v t="leo.20161216120434.7"><vh>心得</vh></v>
 </v>
 </v>
@@ -185,7 +185,7 @@
 <v t="leo.20170107193405.2"><vh>上課日期</vh>
 <v t="leo.20170107193405.3"><vh>20161216</vh></v>
 </v>
-<v t="leo.20170107193405.4"><vh>上課內容</vh>
+<v t="leo.20170107193405.4" a="E"><vh>上課內容</vh>
 <v t="leo.20170107193405.5"><vh>上課內容</vh></v>
 </v>
 <v t="leo.20170107193405.6" a="E"><vh>心得</vh>
@@ -202,7 +202,7 @@
 <v t="leo.20170108050356.1"><vh>上課內容</vh>
 <v t="leo.20170108050356.2"><vh>上課內容</vh></v>
 </v>
-<v t="leo.20170107193407.6"><vh>心得</vh>
+<v t="leo.20170107193407.6" a="E"><vh>心得</vh>
 <v t="leo.20170107193407.7"><vh>心得</vh></v>
 </v>
 </v>
@@ -226,6 +226,17 @@
 </v>
 <v t="leo.20170108025538.6" a="E"><vh>心得</vh>
 <v t="leo.20170108025538.7"><vh>心得</vh></v>
+</v>
+</v>
+<v t="leo.20170116174731.1"><vh>20170113</vh>
+<v t="leo.20170116174731.2" a="E"><vh>上課日期</vh>
+<v t="leo.20170116174731.3"><vh>20170106</vh></v>
+</v>
+<v t="leo.20170116174731.4" a="E"><vh>上課內容</vh>
+<v t="leo.20170116174731.5"><vh>上課內容</vh></v>
+</v>
+<v t="leo.20170116174731.6" a="E"><vh>心得</vh>
+<v t="leo.20170116174731.7"><vh>心得</vh></v>
 </v>
 </v>
 </v>
@@ -1379,7 +1390,7 @@ Diff...
 </t>
 <t tx="leo.20161216115320.7">##心得
 
-這禮拜Github有問題傳不上去，傳到我快崩潰了，回家才看到收到他寄給我的信 
+把上禮拜的圖轉成HTML，這樣就可以在網頁上旋轉，從各種角度看圖檔了。
 
 </t>
 <t tx="leo.20161216120434.1">&lt;section&gt;
@@ -1427,7 +1438,7 @@ Diff...
 </t>
 <t tx="leo.20161216120434.7">##心得
 
-畫這個讓我想起高中的時候QQ
+這禮拜是用Solvespace繪圖繪圖，基本操作很簡單，畫的圖也是，只是組裝時有時候會出現一些失誤，可能是還不太熟悉這套軟體的關係。
 
 </t>
 <t tx="leo.20170107193405.1">&lt;section&gt;
@@ -1474,7 +1485,7 @@ Diff...
 
 
 
- 運用Solvespace練習組合與模擬</t>
+ 用Solvespace還可以模擬運動軌跡，十分的方便，可以預先模擬工件運動情況。</t>
 <t tx="leo.20170107193407.1">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -1521,7 +1532,7 @@ Diff...
 
 
 
-用這個軟體就可以模擬使用情況了</t>
+3D印表機是現在越來越常見的一個設備，可以在很多地方看到他做出來的成品。</t>
 <t tx="leo.20170107193408.1">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -1565,7 +1576,7 @@ Diff...
 
 
 
-這個組合真的是組到眼睛很痛，應該不能用紅色的</t>
+這一個組合件，組了蠻久的，看到有同學COPY我的，代表我的作品有一定的水準吧。</t>
 <t tx="leo.20170108014947.2"></t>
 <t tx="leo.20170108014947.3">(uncached) leo.20170107193407.5
 Diff...
@@ -1670,7 +1681,7 @@ Diff...
 <t tx="leo.20170108025538.5">##上課內容
 
 
-
+補進度
 </t>
 <t tx="leo.20170108025538.6">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -1720,5 +1731,48 @@ Diff...
 &lt;iframe src="https://player.vimeo.com/video/198531288" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 
 </t>
+<t tx="leo.20170116174731.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+</t>
+<t tx="leo.20170116174731.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170116174731.3">## 2017/01/13 第十八週
+
+</t>
+<t tx="leo.20170116174731.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170116174731.5">##上課內容
+
+
+自評</t>
+<t tx="leo.20170116174731.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170116174731.7">##心得
+
+
+
+終於到了自評的這一天了，看看這學期學的東西，雖然都是一些基礎，但是基礎打得好才能繼續做下去。</t>
 </tnodes>
 </leo_file>

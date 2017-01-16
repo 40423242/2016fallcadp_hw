@@ -1,65 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>40423242 課程網誌 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/misc.atom.xml" rel="self"></link><id>./</id><updated>2017-01-13T22:00:00+08:00</updated><entry><title>2016Fall 電腦輔助設計實習課程總結</title><link href="./2016fall-dian-nao-fu-zhu-she-ji-shi-xi-ke-cheng-zong-jie.html" rel="alternate"></link><published>2017-01-13T22:00:00+08:00</published><updated>2017-01-13T22:00:00+08:00</updated><author><name>40423242</name></author><id>tag:,2017-01-13:./2016fall-dian-nao-fu-zhu-she-ji-shi-xi-ke-cheng-zong-jie.html</id><summary type="html">&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;創造力三元素
-自學能力 - 根據特定主題, 自我學習能力
-程式能力 - 規劃並執行特定格式化流程之能力
-想像能力 - 在規劃或執行之前, 根據既有基礎, 具備步驟安排, 想望成具體結果之能力&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;6種表達方式
-口語表達
-文字表達
-2D 圖像表達
-3D 圖像表達 (含動畫或影音表達)
-理論分析表達 (含定性或定量表達)
-實體表達&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;可攜式 Python3 程式環境
-可攜式
-程式環境
-Leo Editor (多元資料管理、pelican 轉檔指令執行, 模擬 IPv4/v6 https server)
-Pelican 網誌
-Reveal 網頁投影片
-git client (config、proxy、add、commit、push、pull、branch、checkout)
-Gihub 倉儲、gh-pages 與 wiki
-Brython 網際程式系統 (文字、2D/3D靜態與動態資料展示, 互動式運算)&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Solvespace 參數 3D 繪圖系統
-簡單的 3D 零件與組立件
-2D 機構模擬 (kinematics)
-3D 零件與組立件網際檢視 (three.js)&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Onshape 雲端參數 3D 繪圖系統
-以電腦瀏覽器開啟, 免單機安裝厚重系統
-以手機與平板 Apps 輔助設計
-提供特徵設計版本管理
-提供雲端零組件協同
-提供網際零組件與機構模擬檢視
-提供 featurescript 客製化程式系統 (納入協同產品設計實習課程範圍)&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;零組件繪圖練習
-Solvespace Tutorial 範例
-Onshape Tutorial 課程範例
-Delta 3D Printer 零組件範例
-Fourbar Linkage 零組件範例
-Nutcracker 零組件範例&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;ShareX 取畫面圖像與操作影片錄製
-操作過程影片送到 Vimeo 與 Youtube
-利用網誌練習文字、口語、流程規劃執行能力&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Github submodule 網際協同 (納入協同產品設計實習課程範圍)&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;</summary><category term="使用導引"></category><category term="創造力"></category><category term="表達能力"></category><category term="協同設計"></category></entry><entry><title>Week 17</title><link href="./week-17.html" rel="alternate"></link><published>2017-01-06T22:00:00+08:00</published><updated>2017-01-06T22:00:00+08:00</updated><author><name>40423242</name></author><id>tag:,2017-01-06:./week-17.html</id><summary type="html">&lt;p&gt;&lt;a href="http://mde.tw/2016fallcadp/blog/2016fall-ji-jie-she-ji-zhu-ti-jiao-xue.html"&gt;作業檢查網站&lt;/a&gt;&lt;/p&gt;</summary><category term="使用導引"></category><category term="創造力"></category><category term="表達能力"></category><category term="協同設計"></category></entry><entry><title>Week 16</title><link href="./week-16.html" rel="alternate"></link><published>2016-12-30T22:00:00+08:00</published><updated>2016-12-30T22:00:00+08:00</updated><author><name>40423242</name></author><id>tag:,2016-12-30:./week-16.html</id><summary type="html">&lt;p&gt;繪製Mechanism Tutorial&lt;p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>40423242 課程網誌 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/misc.atom.xml" rel="self"></link><id>./</id><updated>2017-01-13T22:00:00+08:00</updated><entry><title>2016Fall 電腦輔助設計實習課程總結</title><link href="./2016fall-dian-nao-fu-zhu-she-ji-shi-xi-ke-cheng-zong-jie.html" rel="alternate"></link><updated>2017-01-13T22:00:00+08:00</updated><author><name>40423242</name></author><id>tag:,2017-01-13:./2016fall-dian-nao-fu-zhu-she-ji-shi-xi-ke-cheng-zong-jie.html</id><summary type="html"></summary><category term="使用導引"></category><category term="創造力"></category><category term="表達能力"></category><category term="協同設計"></category></entry><entry><title>Week 17</title><link href="./week-17.html" rel="alternate"></link><updated>2017-01-06T22:00:00+08:00</updated><author><name>40423242</name></author><id>tag:,2017-01-06:./week-17.html</id><summary type="html">&lt;p&gt;&lt;a href="http://mde.tw/2016fallcadp/blog/2016fall-ji-jie-she-ji-zhu-ti-jiao-xue.html"&gt;作業檢查網站&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;心得:快到期末了，希望期末自評之前可以把東西都弄好。&lt;p&gt;</summary><category term="使用導引"></category><category term="創造力"></category><category term="表達能力"></category><category term="協同設計"></category></entry><entry><title>Week 16</title><link href="./week-16.html" rel="alternate"></link><updated>2016-12-30T22:00:00+08:00</updated><author><name>40423242</name></author><id>tag:,2016-12-30:./week-16.html</id><summary type="html">&lt;p&gt;繪製Mechanism Tutorial&lt;p&gt;
 
-http://chiamingyen.github.io/kmolab_data/files/ProEMechanism.pdf  零件繪製與組立
+&lt;p&gt;心得:這一個組合件，組了蠻久的，看到有同學COPY我的，代表我的作品有一定的水準吧。&lt;p&gt;
+
+&lt;p&gt;http://chiamingyen.github.io/kmolab_data/files/ProEMechanism.pdf  零件繪製與組立&lt;p&gt;
 
 
 &lt;iframe src="./../data/W16/adjuster.html" width="550"  height="500"/&gt;&lt;/iframe&gt;
@@ -70,24 +15,32 @@ http://chiamingyen.github.io/kmolab_data/files/ProEMechanism.pdf  零件繪製�
 &lt;iframe src="./../data/W16/handle.html" width="550"  height="500"/&gt;&lt;/iframe&gt;
 &lt;iframe src="./../data/W16/hinge.html" width="550"  height="500"/&gt;&lt;/iframe&gt;
 &lt;iframe src="./../data/W16/pistion.html" width="550"  height="500"/&gt;&lt;/iframe&gt;
-&lt;iframe src="./../data/W16/W16.html" width="550"  height="500"/&gt;&lt;/iframe&gt;</summary><category term="使用導引"></category><category term="創造力"></category><category term="表達能力"></category><category term="協同設計"></category></entry><entry><title>Week 15</title><link href="./week-15.html" rel="alternate"></link><published>2016-12-23T22:00:00+08:00</published><updated>2016-12-23T22:00:00+08:00</updated><author><name>40423242</name></author><id>tag:,2016-12-23:./week-15.html</id><summary type="html">&lt;p&gt;3D印表機，並模擬它的運動軌跡&lt;p&gt;
+&lt;iframe src="./../data/W16/W16.html" width="550"  height="500"/&gt;&lt;/iframe&gt;</summary><category term="使用導引"></category><category term="創造力"></category><category term="表達能力"></category><category term="協同設計"></category></entry><entry><title>Week 15</title><link href="./week-15.html" rel="alternate"></link><updated>2016-12-23T22:00:00+08:00</updated><author><name>40423242</name></author><id>tag:,2016-12-23:./week-15.html</id><summary type="html">&lt;p&gt;3D印表機，並模擬它的運動軌跡&lt;p&gt;
+
+&lt;p&gt;心得:3D印表機是現在越來越常見的一個設備，可以在很多地方看到他做出來的成品。&lt;p&gt;
 
 &lt;img src="./../data/HW6.png" width="500" /&gt;
 
 
-&lt;iframe src="./../data/W15.html" width="550"  height="500"/&gt;&lt;/iframe&gt;</summary><category term="使用導引"></category><category term="創造力"></category><category term="表達能力"></category><category term="協同設計"></category></entry><entry><title>Week 14</title><link href="./week-14.html" rel="alternate"></link><published>2016-12-16T22:00:00+08:00</published><updated>2016-12-16T22:00:00+08:00</updated><author><name>40423242</name></author><id>tag:,2016-12-16:./week-14.html</id><summary type="html">&lt;p&gt;連桿機構&lt;p&gt;
+&lt;iframe src="./../data/W15.html" width="550"  height="500"/&gt;&lt;/iframe&gt;</summary><category term="使用導引"></category><category term="創造力"></category><category term="表達能力"></category><category term="協同設計"></category></entry><entry><title>Week 14</title><link href="./week-14.html" rel="alternate"></link><updated>2016-12-16T22:00:00+08:00</updated><author><name>40423242</name></author><id>tag:,2016-12-16:./week-14.html</id><summary type="html">&lt;p&gt;連桿機構&lt;p&gt;
+
+&lt;p&gt;心得:用Solvespace還可以模擬運動軌跡，十分的方便，可以預先模擬工件運動情況。&lt;p&gt;
 
 &lt;iframe src="https://player.vimeo.com/video/198501834" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 &lt;p&gt;&lt;a href="https://vimeo.com/user60353473"&gt;40423242vimeo頁面&lt;/a&gt;&lt;/p&gt;
 
 
 
-&lt;iframe src="./../data/W14.html" width="550"  height="500"/&gt;&lt;/iframe&gt;</summary><category term="使用導引"></category><category term="創造力"></category><category term="表達能力"></category><category term="協同設計"></category></entry><entry><title>Week 13</title><link href="./week-13.html" rel="alternate"></link><published>2016-12-09T22:00:00+08:00</published><updated>2016-12-09T22:00:00+08:00</updated><author><name>40423242</name></author><id>tag:,2016-12-09:./week-13.html</id><summary type="html">&lt;p&gt;用SolveSpace把檔案存成html檔,並且更改成http設定,利用嵌入網頁的指令,把html檔案放進網誌裡面&lt;p&gt;
+&lt;iframe src="./../data/W14.html" width="550"  height="500"/&gt;&lt;/iframe&gt;</summary><category term="使用導引"></category><category term="創造力"></category><category term="表達能力"></category><category term="協同設計"></category></entry><entry><title>Week 13</title><link href="./week-13.html" rel="alternate"></link><updated>2016-12-09T22:00:00+08:00</updated><author><name>40423242</name></author><id>tag:,2016-12-09:./week-13.html</id><summary type="html">&lt;p&gt;用SolveSpace把檔案存成html檔,並且更改成http設定,利用嵌入網頁的指令,把html檔案放進網誌裡面&lt;p&gt;
+
+&lt;p&gt;心得:把上禮拜的圖轉成HTML，這樣就可以在網頁上旋轉，從各種角度看圖檔了。&lt;p&gt;
 
 &lt;iframe src="https://player.vimeo.com/video/198488048" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 &lt;p&gt;&lt;a href="https://vimeo.com/user60353473"&gt;40423242vimeo頁面&lt;/a&gt;&lt;/p&gt;
 &lt;iframe src="https://player.vimeo.com/video/198531288" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;p&gt;&lt;a href="https://vimeo.com/user60353473"&gt;40423242vimeo頁面&lt;/a&gt;&lt;/p&gt;</summary><category term="使用導引"></category><category term="創造力"></category><category term="表達能力"></category><category term="協同設計"></category></entry><entry><title>Week 12</title><link href="./week-12.html" rel="alternate"></link><published>2016-12-02T22:00:00+08:00</published><updated>2016-12-02T22:00:00+08:00</updated><author><name>40423242</name></author><id>tag:,2016-12-02:./week-12.html</id><summary type="html">&lt;p&gt;Solvespace繪圖&lt;p&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/user60353473"&gt;40423242vimeo頁面&lt;/a&gt;&lt;/p&gt;</summary><category term="使用導引"></category><category term="創造力"></category><category term="表達能力"></category><category term="協同設計"></category></entry><entry><title>Week 12</title><link href="./week-12.html" rel="alternate"></link><updated>2016-12-02T22:00:00+08:00</updated><author><name>40423242</name></author><id>tag:,2016-12-02:./week-12.html</id><summary type="html">&lt;p&gt;Solvespace繪圖&lt;p&gt;
+
+&lt;p&gt;心得:這禮拜是用Solvespace繪圖繪圖，基本操作很簡單，畫的圖也是，只是組裝時有時候會出現一些失誤，可能是還不太熟悉這套軟體的關係。&lt;p&gt;
 
 &lt;iframe src="https://player.vimeo.com/video/198449757" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 &lt;p&gt;&lt;a href="https://vimeo.com/user60353473"&gt;40423242vimeo頁面&lt;/a&gt;&lt;/p&gt;
@@ -95,18 +48,18 @@ http://chiamingyen.github.io/kmolab_data/files/ProEMechanism.pdf  零件繪製�
 &lt;p&gt;&lt;a href="https://vimeo.com/user60353473"&gt;40423242vimeo頁面&lt;/a&gt;&lt;/p&gt;
 &lt;iframe src="https://player.vimeo.com/video/198449745" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 &lt;p&gt;&lt;a href="https://vimeo.com/user60353473"&gt;40423242vimeo頁面&lt;/a&gt;&lt;/p&gt;
-&lt;iframe src="./../data/W12.html" width="550"  height="500"/&gt;&lt;/iframe&gt;</summary><category term="使用導引"></category><category term="創造力"></category><category term="表達能力"></category><category term="協同設計"></category></entry><entry><title>Week 11</title><link href="./week-11.html" rel="alternate"></link><published>2016-11-25T22:00:00+08:00</published><updated>2016-11-25T22:00:00+08:00</updated><author><name>40423242</name></author><id>tag:,2016-11-25:./week-11.html</id><summary type="html">&lt;p&gt;運動會&lt;p&gt;</summary><category term="使用導引"></category><category term="創造力"></category><category term="表達能力"></category><category term="協同設計"></category></entry><entry><title>Week 10</title><link href="./week-10.html" rel="alternate"></link><published>2016-11-18T22:00:00+08:00</published><updated>2016-11-18T22:00:00+08:00</updated><author><name>40423242</name></author><id>tag:,2016-11-18:./week-10.html</id><summary type="html">&lt;p&gt;Solvespace 平面四連桿機構模擬&lt;p&gt;
+&lt;iframe src="./../data/W12.html" width="550"  height="500"/&gt;&lt;/iframe&gt;</summary><category term="使用導引"></category><category term="創造力"></category><category term="表達能力"></category><category term="協同設計"></category></entry><entry><title>Week 11</title><link href="./week-11.html" rel="alternate"></link><updated>2016-11-25T22:00:00+08:00</updated><author><name>40423242</name></author><id>tag:,2016-11-25:./week-11.html</id><summary type="html">&lt;p&gt;運動會&lt;p&gt;</summary><category term="使用導引"></category><category term="創造力"></category><category term="表達能力"></category><category term="協同設計"></category></entry><entry><title>Week 10</title><link href="./week-10.html" rel="alternate"></link><updated>2016-11-18T22:00:00+08:00</updated><author><name>40423242</name></author><id>tag:,2016-11-18:./week-10.html</id><summary type="html">&lt;p&gt;Solvespace 平面四連桿機構模擬&lt;p&gt;
 
 
 
 &lt;img src="./../data/hw1.png" width="500" /&gt;
 
 
-&lt;img src="./../data/hw2.png" width="500" /&gt;</summary><category term="使用導引"></category><category term="創造力"></category><category term="表達能力"></category><category term="協同設計"></category></entry><entry><title>Week 9</title><link href="./week-9.html" rel="alternate"></link><published>2016-11-11T22:00:00+08:00</published><updated>2016-11-11T22:00:00+08:00</updated><author><name>40423242</name></author><id>tag:,2016-11-11:./week-9.html</id><summary type="html">&lt;p&gt;期中考週&lt;p&gt;</summary><category term="使用導引"></category><category term="創造力"></category><category term="表達能力"></category><category term="協同設計"></category></entry><entry><title>Week 8</title><link href="./week-8.html" rel="alternate"></link><published>2016-11-04T22:00:00+08:00</published><updated>2016-11-04T22:00:00+08:00</updated><author><name>40423242</name></author><id>tag:,2016-11-04:./week-8.html</id><summary type="html">&lt;p&gt;使用Trace Point計算路徑&lt;p&gt;</summary><category term="使用導引"></category><category term="創造力"></category><category term="表達能力"></category><category term="協同設計"></category></entry><entry><title>Week 7</title><link href="./week-7.html" rel="alternate"></link><published>2016-10-28T22:00:00+08:00</published><updated>2016-10-28T22:00:00+08:00</updated><author><name>40423242</name></author><id>tag:,2016-10-28:./week-7.html</id><summary type="html">&lt;p&gt;使用Trace Point計算路徑&lt;p&gt;</summary><category term="使用導引"></category><category term="創造力"></category><category term="表達能力"></category><category term="協同設計"></category></entry><entry><title>Week 6</title><link href="./week-6.html" rel="alternate"></link><published>2016-10-21T22:00:00+08:00</published><updated>2016-10-21T22:00:00+08:00</updated><author><name>40423242</name></author><id>tag:,2016-10-21:./week-6.html</id><summary type="html">&lt;h3&gt;OnShape&lt;/h3&gt;</summary><category term="使用導引"></category><category term="創造力"></category><category term="表達能力"></category><category term="協同設計"></category></entry><entry><title>Week 5</title><link href="./week-5.html" rel="alternate"></link><published>2016-10-14T22:00:00+08:00</published><updated>2016-10-14T22:00:00+08:00</updated><author><name>40423242</name></author><id>tag:,2016-10-14:./week-5.html</id><summary type="html">&lt;p&gt;##認識SolveSpace&lt;p&gt;</summary><category term="使用導引"></category><category term="創造力"></category><category term="表達能力"></category><category term="協同設計"></category></entry><entry><title>Week 4</title><link href="./week-4.html" rel="alternate"></link><published>2016-10-07T22:00:00+08:00</published><updated>2016-10-07T22:00:00+08:00</updated><author><name>40423242</name></author><id>tag:,2016-10-07:./week-4.html</id><summary type="html">&lt;p&gt;1: 設定使用者資料&lt;/p&gt;
-&lt;p&gt;2: 組長用2016fallcadp_bg11的名稱建立小組倉儲並邀組員進入小組倉儲&lt;/p&gt;</summary><category term="使用導引"></category><category term="創造力"></category><category term="表達能力"></category><category term="協同設計"></category></entry><entry><title>Week 3</title><link href="./week-3.html" rel="alternate"></link><published>2016-09-30T22:00:00+08:00</published><updated>2016-09-30T22:00:00+08:00</updated><author><name>40423242</name></author><id>tag:,2016-09-30:./week-3.html</id><summary type="html">&lt;p&gt;1:複製網誌和簡報的設定檔2016fallcadp_hw的倉儲&lt;/p&gt;
-&lt;p&gt;2:更改2016fallcadp_hw的README.md檔案&lt;/p&gt;</summary><category term="使用導引"></category><category term="創造力"></category><category term="表達能力"></category><category term="協同設計"></category></entry><entry><title>Week 2</title><link href="./week-2.html" rel="alternate"></link><published>2016-09-23T22:00:00+08:00</published><updated>2016-09-23T22:00:00+08:00</updated><author><name>40423242</name></author><id>tag:,2016-09-23:./week-2.html</id><summary type="html">&lt;p&gt;1: 建立"學號.github.io"名稱的倉儲&lt;/p&gt;
+&lt;img src="./../data/hw2.png" width="500" /&gt;</summary><category term="使用導引"></category><category term="創造力"></category><category term="表達能力"></category><category term="協同設計"></category></entry><entry><title>Week 9</title><link href="./week-9.html" rel="alternate"></link><updated>2016-11-11T22:00:00+08:00</updated><author><name>40423242</name></author><id>tag:,2016-11-11:./week-9.html</id><summary type="html">&lt;p&gt;期中考週&lt;p&gt;</summary><category term="使用導引"></category><category term="創造力"></category><category term="表達能力"></category><category term="協同設計"></category></entry><entry><title>Week 8</title><link href="./week-8.html" rel="alternate"></link><updated>2016-11-04T22:00:00+08:00</updated><author><name>40423242</name></author><id>tag:,2016-11-04:./week-8.html</id><summary type="html">&lt;p&gt;使用Trace Point計算路徑&lt;p&gt;</summary><category term="使用導引"></category><category term="創造力"></category><category term="表達能力"></category><category term="協同設計"></category></entry><entry><title>Week 7</title><link href="./week-7.html" rel="alternate"></link><updated>2016-10-28T22:00:00+08:00</updated><author><name>40423242</name></author><id>tag:,2016-10-28:./week-7.html</id><summary type="html">&lt;p&gt;使用Trace Point計算路徑&lt;p&gt;</summary><category term="使用導引"></category><category term="創造力"></category><category term="表達能力"></category><category term="協同設計"></category></entry><entry><title>Week 6</title><link href="./week-6.html" rel="alternate"></link><updated>2016-10-21T22:00:00+08:00</updated><author><name>40423242</name></author><id>tag:,2016-10-21:./week-6.html</id><summary type="html">&lt;h3&gt;OnShape&lt;/h3&gt;</summary><category term="使用導引"></category><category term="創造力"></category><category term="表達能力"></category><category term="協同設計"></category></entry><entry><title>Week 5</title><link href="./week-5.html" rel="alternate"></link><updated>2016-10-14T22:00:00+08:00</updated><author><name>40423242</name></author><id>tag:,2016-10-14:./week-5.html</id><summary type="html">&lt;p&gt;##認識SolveSpace&lt;p&gt;</summary><category term="使用導引"></category><category term="創造力"></category><category term="表達能力"></category><category term="協同設計"></category></entry><entry><title>Week 4</title><link href="./week-4.html" rel="alternate"></link><updated>2016-10-07T22:00:00+08:00</updated><author><name>40423242</name></author><id>tag:,2016-10-07:./week-4.html</id><summary type="html">&lt;p&gt;1: 設定使用者資料&lt;/p&gt;
+&lt;p&gt;2: 組長用2016fallcadp_bg11的名稱建立小組倉儲並邀組員進入小組倉儲&lt;/p&gt;</summary><category term="使用導引"></category><category term="創造力"></category><category term="表達能力"></category><category term="協同設計"></category></entry><entry><title>Week 3</title><link href="./week-3.html" rel="alternate"></link><updated>2016-09-30T22:00:00+08:00</updated><author><name>40423242</name></author><id>tag:,2016-09-30:./week-3.html</id><summary type="html">&lt;p&gt;1:複製網誌和簡報的設定檔2016fallcadp_hw的倉儲&lt;/p&gt;
+&lt;p&gt;2:更改2016fallcadp_hw的README.md檔案&lt;/p&gt;</summary><category term="使用導引"></category><category term="創造力"></category><category term="表達能力"></category><category term="協同設計"></category></entry><entry><title>Week 2</title><link href="./week-2.html" rel="alternate"></link><updated>2016-09-23T22:00:00+08:00</updated><author><name>40423242</name></author><id>tag:,2016-09-23:./week-2.html</id><summary type="html">&lt;p&gt;1: 建立"學號.github.io"名稱的倉儲&lt;/p&gt;
 &lt;p&gt;2: 把分支的預設值改為gh-pages&lt;/p&gt;
-&lt;p&gt;3: 建立"2016fallcpb_hw"作業倉儲&lt;/p&gt;</summary><category term="使用導引"></category><category term="創造力"></category><category term="表達能力"></category><category term="協同設計"></category></entry><entry><title>Week 1</title><link href="./week-1.html" rel="alternate"></link><published>2016-09-16T22:00:00+08:00</published><updated>2016-09-16T22:00:00+08:00</updated><author><name>40423242</name></author><id>tag:,2016-09-16:./week-1.html</id><summary type="html">&lt;p&gt;切換分支&lt;/p&gt;
+&lt;p&gt;3: 建立"2016fallcpb_hw"作業倉儲&lt;/p&gt;</summary><category term="使用導引"></category><category term="創造力"></category><category term="表達能力"></category><category term="協同設計"></category></entry><entry><title>Week 1</title><link href="./week-1.html" rel="alternate"></link><updated>2016-09-16T22:00:00+08:00</updated><author><name>40423242</name></author><id>tag:,2016-09-16:./week-1.html</id><summary type="html">&lt;p&gt;切換分支&lt;/p&gt;
 
 &lt;pre&gt;cd &lt;u&gt;tmp&lt;/u&gt;&lt;/pre&gt;
 
@@ -126,7 +79,7 @@ http://chiamingyen.github.io/kmolab_data/files/ProEMechanism.pdf  零件繪製�
 
 &lt;p&gt;推送進端資料到遠端&lt;/p&gt;
 
-&lt;pre&gt;git push origin &lt;u&gt;分支名稱&lt;/u&gt;&lt;/pre&gt;</summary><category term="使用導引"></category><category term="創造力"></category><category term="表達能力"></category><category term="協同設計"></category></entry><entry><title>2016Fall 簡報與網誌系統</title><link href="./2016fall-jian-bao-yu-wang-zhi-xi-tong.html" rel="alternate"></link><published>2016-09-02T12:00:00+08:00</published><updated>2016-09-02T12:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2016-09-02:./2016fall-jian-bao-yu-wang-zhi-xi-tong.html</id><summary type="html">&lt;p&gt;這個系統共集結了 reveal.js 網際簡報與 pelican 靜態網誌系統.&lt;/p&gt;
+&lt;pre&gt;git push origin &lt;u&gt;分支名稱&lt;/u&gt;&lt;/pre&gt;</summary><category term="使用導引"></category><category term="創造力"></category><category term="表達能力"></category><category term="協同設計"></category></entry><entry><title>2016Fall 簡報與網誌系統</title><link href="./2016fall-jian-bao-yu-wang-zhi-xi-tong.html" rel="alternate"></link><updated>2016-09-02T12:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2016-09-02:./2016fall-jian-bao-yu-wang-zhi-xi-tong.html</id><summary type="html">&lt;p&gt;這個系統共集結了 reveal.js 網際簡報與 pelican 靜態網誌系統.&lt;/p&gt;
 
 
 &lt;p&gt;網誌 Category&lt;/p&gt;
